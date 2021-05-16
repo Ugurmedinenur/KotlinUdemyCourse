@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinDesignExpample</string>
+    <string name="user_name">Kullanıcı Adı</string>
+    <string name="password">Parola</string>
+    <string name="btn_login">GİRİŞ</string>
+    <string name="help">Yardım ?</string>
+</resources>

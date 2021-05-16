@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401539558092",
+    "project_id": "udemyegitim-abbf2",
+    "storage_bucket": "udemyegitim-abbf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401539558092:android:2c7abc65cc86f74deeb069",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401539558092-1lmrtj7gg2cbi3kdblrarvgptruihp4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm-GBgFT7I0TBBlMYyGhZbxvexf0iWaFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401539558092-1lmrtj7gg2cbi3kdblrarvgptruihp4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
